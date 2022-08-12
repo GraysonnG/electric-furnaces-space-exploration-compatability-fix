@@ -1,0 +1,13 @@
+{
+	"name": "electric-furnaces-space-exploration-compatability-fix",
+	"version": "0.0.1",
+	"title": "Electric Furnaces Space Exploration Compatibility Fix",
+	"author": "Blank The Evil",
+	"homepage": "",
+	"description": "Fixes Compatibility with Electric Furnaces mod when played with Space Exploration mod",
+	"factorio_version": "1.1",
+  "dependencies": [
+    "Electric Furnaces >= 2.4.11",
+    "space-exploration >= 0.6.82"
+  ]
+}
