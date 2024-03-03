@@ -7,6 +7,8 @@ end
 local furnaces = {
   stone_furnace = find_furnace("electric-stone-furnace"),
   steel_furnace = find_furnace("electric-steel-furnace"),
+  primitive_elect_furnace = find_furnace("primitive-electric-furnace"),
+  basic_elect_furnace = find_furnace("basic-electric-furnace"),
   elect_furnace_2 = find_furnace("electric-furnace-2"),
   elect_furnace_3 = find_furnace("electric-furnace-3")
 }
